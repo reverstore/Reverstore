@@ -1,16 +1,17 @@
-## Hi there 👋
+# Rever Store
 
-<!--
-**reverstore/Reverstore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Base inicial da nova Rever Store.
 
-Here are some ideas to get you started:
+## Stack
+- Next.js + TypeScript
+- Supabase
+- Vercel
+- Asaas (integração futura)
+- Correios (integração futura)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Escopo
+E-commerce de produtos físicos/digitais e plataforma SaaS multi-tenant para salões e barbearias.
+
+## Configuração
+Crie as variáveis de ambiente usando `.env.example`.
+Nunca exponha `SUPABASE_SECRET_KEY` no navegador.
